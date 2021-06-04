@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/local.isima.fr/immassaoud/module-project/student.cpp
+student.h
+/home/local.isima.fr/immassaoud/module-project/student.h
+
+/home/local.isima.fr/immassaoud/module-project/student.h
+string
+-
+vector
+-
+
